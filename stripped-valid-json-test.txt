@@ -1,0 +1,22 @@
+{ 
+   "sex":"Male",
+   "address":{  
+      "city":"San Jose",
+      "state":"California",
+      "url":"http://www.sanjose.com"
+   },
+   "friends":[ 
+      {  
+         "name":"Alice",
+         "age":"20"
+      }, 
+      {  
+         "name":"Laura",
+         "age":"23"
+      },
+      {  
+         "name":"Daniel",
+         "age":"30"
+      }
+   ]
+}

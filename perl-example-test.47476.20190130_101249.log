@@ -1,0 +1,592 @@
+20190130_101249 perl example test message20190130_101249 getListOfRegularFilesInDirectory: directoryName=/Users/fredbulah/Dropbox/perl_workspace/examples filter=
+20190130_101249 getListOfRegularFilesInDirectory: return filteredList=
+	/Users/fredbulah/Dropbox/perl_workspace/examples/q1_histogram.pl
+	/Users/fredbulah/Dropbox/perl_workspace/examples/perl-example-test.46576.20190130_095823.log
+	/Users/fredbulah/Dropbox/perl_workspace/examples/TruckSubclass.pm
+	/Users/fredbulah/Dropbox/perl_workspace/examples/UtilsBaseTests.pm
+	/Users/fredbulah/Dropbox/perl_workspace/examples/CarSubclass.pm
+	/Users/fredbulah/Dropbox/perl_workspace/examples/SingletonMotorVehicleAgency.pm
+	/Users/fredbulah/Dropbox/perl_workspace/examples/q5_strip.pl
+	/Users/fredbulah/Dropbox/perl_workspace/examples/.MainDriver.pl.swp
+	/Users/fredbulah/Dropbox/perl_workspace/examples/perl-example-test.46271.20190130_095533.log
+	/Users/fredbulah/Dropbox/perl_workspace/examples/invalid-json-test
+	/Users/fredbulah/Dropbox/perl_workspace/examples/VehicleBaseClass.pm
+	/Users/fredbulah/Dropbox/perl_workspace/examples/VehicleFactory.pm
+	/Users/fredbulah/Dropbox/perl_workspace/examples/Utils.pm
+	/Users/fredbulah/Dropbox/perl_workspace/examples/.t.pl.swp
+	/Users/fredbulah/Dropbox/perl_workspace/examples/stripped-valid-json-test.txt
+	/Users/fredbulah/Dropbox/perl_workspace/examples/MainDriver.pl
+	/Users/fredbulah/Dropbox/perl_workspace/examples/q2_hash.pl
+	/Users/fredbulah/Dropbox/perl_workspace/examples/README.txt
+	/Users/fredbulah/Dropbox/perl_workspace/examples/valid-json-test.txt
+	/Users/fredbulah/Dropbox/perl_workspace/examples/perl-example-test.44596.20190130_091641.log
+	/Users/fredbulah/Dropbox/perl_workspace/examples/perl-example-test.47476.20190130_101249.log
+	/Users/fredbulah/Dropbox/perl_workspace/examples/invalid-json-test.txt
+	/Users/fredbulah/Dropbox/perl_workspace/examples/genstub.sh
+	/Users/fredbulah/Dropbox/perl_workspace/examples/invalid-json-test-0.txt
+	/Users/fredbulah/Dropbox/perl_workspace/examples/t.pl
+	/Users/fredbulah/Dropbox/perl_workspace/examples/invalid-json-test-1.txt
+	/Users/fredbulah/Dropbox/perl_workspace/examples/.Utils.pm.swp
+	/Users/fredbulah/Dropbox/perl_workspace/examples/q3_q4_bal.pl
+20190130_101249 findFirstExistingDirectoryInListOfFiles: fileList=
+/Users/fredbulah/Dropbox/perl_workspace/examples/q1_histogram.pl
+/Users/fredbulah/Dropbox/perl_workspace/examples/perl-example-test.46576.20190130_095823.log
+/Users/fredbulah/Dropbox/perl_workspace/examples/TruckSubclass.pm
+/Users/fredbulah/Dropbox/perl_workspace/examples/UtilsBaseTests.pm
+/Users/fredbulah/Dropbox/perl_workspace/examples/CarSubclass.pm
+/Users/fredbulah/Dropbox/perl_workspace/examples/SingletonMotorVehicleAgency.pm
+/Users/fredbulah/Dropbox/perl_workspace/examples/q5_strip.pl
+/Users/fredbulah/Dropbox/perl_workspace/examples/.MainDriver.pl.swp
+/Users/fredbulah/Dropbox/perl_workspace/examples/perl-example-test.46271.20190130_095533.log
+/Users/fredbulah/Dropbox/perl_workspace/examples/invalid-json-test
+/Users/fredbulah/Dropbox/perl_workspace/examples/VehicleBaseClass.pm
+/Users/fredbulah/Dropbox/perl_workspace/examples/VehicleFactory.pm
+/Users/fredbulah/Dropbox/perl_workspace/examples/Utils.pm
+/Users/fredbulah/Dropbox/perl_workspace/examples/.t.pl.swp
+/Users/fredbulah/Dropbox/perl_workspace/examples/stripped-valid-json-test.txt
+/Users/fredbulah/Dropbox/perl_workspace/examples/MainDriver.pl
+/Users/fredbulah/Dropbox/perl_workspace/examples/q2_hash.pl
+/Users/fredbulah/Dropbox/perl_workspace/examples/README.txt
+/Users/fredbulah/Dropbox/perl_workspace/examples/valid-json-test.txt
+/Users/fredbulah/Dropbox/perl_workspace/examples/perl-example-test.44596.20190130_091641.log
+/Users/fredbulah/Dropbox/perl_workspace/examples/perl-example-test.47476.20190130_101249.log
+/Users/fredbulah/Dropbox/perl_workspace/examples/invalid-json-test.txt
+/Users/fredbulah/Dropbox/perl_workspace/examples/genstub.sh
+/Users/fredbulah/Dropbox/perl_workspace/examples/invalid-json-test-0.txt
+/Users/fredbulah/Dropbox/perl_workspace/examples/t.pl
+/Users/fredbulah/Dropbox/perl_workspace/examples/invalid-json-test-1.txt
+/Users/fredbulah/Dropbox/perl_workspace/examples/.Utils.pm.swp
+/Users/fredbulah/Dropbox/perl_workspace/examples/q3_q4_bal.pl)
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/q1_histogram.pl e=1 d=0 l=
+-rwxr-xr-x@ 1 fredbulah  staff  7741 Jan 28 14:07 /Users/fredbulah/Dropbox/perl_workspace/examples/q1_histogram.pl
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/perl-example-test.46576.20190130_095823.log e=1 d=0 l=
+-rw-r--r--@ 1 fredbulah  staff  26081 Jan 30 09:58 /Users/fredbulah/Dropbox/perl_workspace/examples/perl-example-test.46576.20190130_095823.log
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/TruckSubclass.pm e=1 d=0 l=
+-rwxr-xr-x@ 1 fredbulah  staff  1015 Jan 29 20:14 /Users/fredbulah/Dropbox/perl_workspace/examples/TruckSubclass.pm
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/UtilsBaseTests.pm e=1 d=0 l=
+-rwxr-xr-x@ 1 fredbulah  staff  7982 Jan 28 18:18 /Users/fredbulah/Dropbox/perl_workspace/examples/UtilsBaseTests.pm
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/CarSubclass.pm e=1 d=0 l=
+-rwxr-xr-x@ 1 fredbulah  staff  1005 Jan 29 20:12 /Users/fredbulah/Dropbox/perl_workspace/examples/CarSubclass.pm
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/SingletonMotorVehicleAgency.pm e=1 d=0 l=
+-rwxr-xr-x@ 1 fredbulah  staff  2040 Jan 29 21:11 /Users/fredbulah/Dropbox/perl_workspace/examples/SingletonMotorVehicleAgency.pm
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/q5_strip.pl e=1 d=0 l=
+-rwxr-xr-x@ 1 fredbulah  staff  25163 Jan 28 14:07 /Users/fredbulah/Dropbox/perl_workspace/examples/q5_strip.pl
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/.MainDriver.pl.swp e=1 d=0 l=
+-rw-r--r--@ 1 fredbulah  staff  20480 Jan 30 10:12 /Users/fredbulah/Dropbox/perl_workspace/examples/.MainDriver.pl.swp
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/perl-example-test.46271.20190130_095533.log e=1 d=0 l=
+-rw-r--r--@ 1 fredbulah  staff  24960 Jan 30 09:55 /Users/fredbulah/Dropbox/perl_workspace/examples/perl-example-test.46271.20190130_095533.log
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/invalid-json-test e=1 d=0 l=
+-rw-r--r--@ 1 fredbulah  staff  121 Jan 28 13:57 /Users/fredbulah/Dropbox/perl_workspace/examples/invalid-json-test
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/VehicleBaseClass.pm e=1 d=0 l=
+-rwxr-xr-x@ 1 fredbulah  staff  3591 Jan 29 20:12 /Users/fredbulah/Dropbox/perl_workspace/examples/VehicleBaseClass.pm
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/VehicleFactory.pm e=1 d=0 l=
+-rwxr-xr-x@ 1 fredbulah  staff  1147 Jan 29 20:17 /Users/fredbulah/Dropbox/perl_workspace/examples/VehicleFactory.pm
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/Utils.pm e=1 d=0 l=
+-rwxr-xr-x@ 1 fredbulah  staff  37507 Jan 30 09:37 /Users/fredbulah/Dropbox/perl_workspace/examples/Utils.pm
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/.t.pl.swp e=1 d=0 l=
+-rw-r--r--@ 1 fredbulah  staff  12288 Jan 30 10:09 /Users/fredbulah/Dropbox/perl_workspace/examples/.t.pl.swp
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/stripped-valid-json-test.txt e=1 d=0 l=
+-rw-r--r--@ 1 fredbulah  staff  348 Jan 28 13:57 /Users/fredbulah/Dropbox/perl_workspace/examples/stripped-valid-json-test.txt
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/MainDriver.pl e=1 d=0 l=
+-rwxr-xr-x@ 1 fredbulah  staff  5952 Jan 30 10:12 /Users/fredbulah/Dropbox/perl_workspace/examples/MainDriver.pl
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/q2_hash.pl e=1 d=0 l=
+-rwxr-xr-x@ 1 fredbulah  staff  2108 Jan 28 14:07 /Users/fredbulah/Dropbox/perl_workspace/examples/q2_hash.pl
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/README.txt e=1 d=0 l=
+-rw-r--r--@ 1 fredbulah  staff  848 Jan 28 14:07 /Users/fredbulah/Dropbox/perl_workspace/examples/README.txt
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/valid-json-test.txt e=1 d=0 l=
+-rw-r--r--@ 1 fredbulah  staff  466 Jan 28 13:57 /Users/fredbulah/Dropbox/perl_workspace/examples/valid-json-test.txt
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/perl-example-test.44596.20190130_091641.log e=1 d=0 l=
+-rw-r--r--@ 1 fredbulah  staff  23826 Jan 30 09:16 /Users/fredbulah/Dropbox/perl_workspace/examples/perl-example-test.44596.20190130_091641.log
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/perl-example-test.47476.20190130_101249.log e=1 d=0 l=
+-rw-r--r--@ 1 fredbulah  staff  21970 Jan 30 10:12 /Users/fredbulah/Dropbox/perl_workspace/examples/perl-example-test.47476.20190130_101249.log
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/invalid-json-test.txt e=1 d=0 l=
+-rw-r--r--@ 1 fredbulah  staff  72 Jan 28 13:57 /Users/fredbulah/Dropbox/perl_workspace/examples/invalid-json-test.txt
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/genstub.sh e=1 d=0 l=
+-rwxr-xr-x@ 1 fredbulah  staff  147 Jan 28 18:17 /Users/fredbulah/Dropbox/perl_workspace/examples/genstub.sh
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/invalid-json-test-0.txt e=1 d=0 l=
+-rw-r--r--@ 1 fredbulah  staff  121 Jan 28 13:57 /Users/fredbulah/Dropbox/perl_workspace/examples/invalid-json-test-0.txt
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277096 233549280    76% 2283862 9223372036852491945    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549280     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/t.pl e=1 d=0 l=
+-rwxr-xr-x@ 1 fredbulah  staff  302 Jan 30 10:09 /Users/fredbulah/Dropbox/perl_workspace/examples/t.pl
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277256 233549120    76% 2283863 9223372036852491944    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549120     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/invalid-json-test-1.txt e=1 d=0 l=
+-rw-r--r--@ 1 fredbulah  staff  72 Jan 28 13:57 /Users/fredbulah/Dropbox/perl_workspace/examples/invalid-json-test-1.txt
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277256 233549120    76% 2283863 9223372036852491944    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549120     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/.Utils.pm.swp e=1 d=0 l=
+-rw-r--r--@ 1 fredbulah  staff  81920 Jan 30 09:37 /Users/fredbulah/Dropbox/perl_workspace/examples/.Utils.pm.swp
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277256 233549120    76% 2283863 9223372036852491944    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549120     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: dir=/Users/fredbulah/Dropbox/perl_workspace/examples/q3_q4_bal.pl e=1 d=0 l=
+-rwxr-xr-x@ 1 fredbulah  staff  8398 Jan 28 14:07 /Users/fredbulah/Dropbox/perl_workspace/examples/q3_q4_bal.pl
+
+m=
+ls: /media: No such file or directory
+
+f=
+Filesystem    512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+
+/dev/disk1s1   976490568 735277256 233549120    76% 2283863 9223372036852491944    0%   /
+
+devfs                387       387         0   100%     670                   0  100%   /dev
+
+/dev/disk1s4   976490568   6291560 233549120     3%       3 9223372036854775804    0%   /private/var/vm
+
+map -hosts             0         0         0   100%       0                   0  100%   /net
+
+map auto_home          0         0         0   100%       0                   0  100%   /home
+
+20190130_101249 findFirstExistingDirectoryInListOfFiles: return undef because no directories were found in list

@@ -1,0 +1,24 @@
+{ // comment 1  
+   "name":"Bob", // comment 2 http://abc.com
+   "sex":"Male",
+   "address":{  
+      "city":"San Jose",
+      "state":"California",
+      "url":"http://www.sanjose.com" // comment 3
+   },
+   "friends":[ // comment 4  
+      {  
+         "name":"Alice",
+         "age":"20"
+      }, // comment 5,
+      // comment 6
+      {  
+         "name":"Laura",
+         "age":"23"
+      },
+      {  
+         "name":"Daniel",
+         "age":"30"
+      }
+   ]
+}
