@@ -45,6 +45,7 @@ The second set of examples are contained in the files:
 	UtilsBaseTests.pm              A bare-bones test module generated for Utils.pm using 
 	                               https://metacpan.org/pod/Test::StubGenerator 
 											 and uses Test::More and Test::Simple as the underlying testing framework.
+	genstub.sh                     shell script used to generate UtilsBaseTests.pm
 
 All are commented, and the MainDriver has perlpod documentation.
 
